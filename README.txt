@@ -1,0 +1,1 @@
+Go get this Opera extension @ https://addons.opera.com/extensions/details/cursoradjust
