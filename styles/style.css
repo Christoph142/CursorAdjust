@@ -1,0 +1,2 @@
+body { cursor:default; }
+input[type=text],[type=password],[type=email]{ cursor:text; }
