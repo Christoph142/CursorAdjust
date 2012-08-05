@@ -1,7 +1,7 @@
-window.addEventListener('DOMContentLoaded', function() {
-	var style = document.createElement('style');
-	style.setAttribute('type', 'text/css');            
-	style.innerHTML = "body { cursor:default; } input[type=text],[type=password],[type=email]{ cursor:text; }";
+window.addEventListener("DOMContentLoaded", function(){
+	var style = document.createElement("style");
+	style.setAttribute("type","text/css");
+	style.innerHTML = "body{ cursor:default; } input[type=text],[type=password],[type=email]{ cursor:text; }";
 	try{ document.getElementsByTagName("head")[0].appendChild(style); }
 	catch(e){
 		try{
