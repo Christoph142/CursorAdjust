@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="http://www.codog.de/CursorAdjust" viewmodes="minimized" version="1.5">
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://github.com/Christoph142/CursorAdjust" version="1.5">
 
-  <name>CursorAdjust</name>
-  <author>Christoph D.</author>
-  <description xml:lang="en">Change your cursor over normal websites text back to what it used to be like in earlier versions of Opera</description>
-  <description xml:lang="de">Ändere das Cursor-Verhalten über normalem Text auf Webseiten so zurück, wie es in früheren Opera-Versionen der Fall war</description>
-  <description xml:lang="fr">Changez votre curseur sur les textes normales au sites du web comme c'était dans les versions antérieures d'Opera</description>
-  <icon src="images/icon.png"/>
+	<name>CursorAdjust</name>
+	<author href="http://my.opera.com/christoph142/blog">Christoph D.</author>
+	<icon src="images/icon.png"/>
+	
+	<description xml:lang="en">Change your cursor over normal websites text back to what it used to be like in earlier versions of Opera</description>
+	<description xml:lang="de">Ändere das Cursor-Verhalten über normalem Text auf Webseiten so zurück, wie es in früheren Opera-Versionen der Fall war</description>
+	<description xml:lang="fr">Changez votre curseur sur les textes normales au sites du web comme c'était dans les versions antérieures d'Opera</description>
 
 </widget>
