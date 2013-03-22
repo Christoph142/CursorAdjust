@@ -5,9 +5,10 @@
 	<author href="http://my.opera.com/christoph142/blog">Christoph D.</author>
 	<icon src="images/icon.png"/>
 	
+	<description xml:lang="ar">تغيير مؤشر الفأرة فوق النص في مواقع الأنترنت إلى ما كان عليه في النسخ السابقة لأوبرا</description>
 	<description xml:lang="cs">Změňte váš kurzor u normálních webových textů zpět na takový, jaký byl v dřívějších verzích Opery</description>
-	<description xml:lang="en">Change your cursor over normal websites text back to what it used to be like in earlier versions of Opera</description>
-	<description xml:lang="de">Ändere das Cursor-Verhalten über normalem Text auf Webseiten so zurück, wie es in früheren Opera-Versionen der Fall war</description>
-	<description xml:lang="fr">Changez votre curseur sur les textes normales au sites du web comme c'était dans les versions antérieures d'Opera</description>
+	<description xml:lang="de">Bringt das Cursor-Verhalten über Text auf Webseiten aus früheren Opera-Versionen zurück</description>
+	<description xml:lang="en">Change the cursor over website's text back to what it used to be like in earlier versions of Opera</description>
+	<description xml:lang="fr">Change le curseur sur textes au sites du web comme c'était dans les versions antérieures d'Opera</description>
 
 </widget>
