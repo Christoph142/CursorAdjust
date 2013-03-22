@@ -2,7 +2,7 @@
 	window.addEventListener("load", function(){
 		var style = document.createElement("style");
 		style.setAttribute("type","text/css");
-		style.innerHTML = "body{ cursor:default; } input[type=text],[type=password],[type=email]{ cursor:text; }";
+		style.innerHTML = "html{ cursor:default; }";
 		try{ document.getElementsByTagName("head")[0].appendChild(style); }
 		catch(e){
 			try{
