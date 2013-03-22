@@ -2,7 +2,7 @@
 	window.addEventListener("load", function(){
 		var style = document.createElement("style");
 		style.setAttribute("type","text/css");
-		style.innerHTML = "html{ cursor:default; }";
+		style.innerHTML = "body{ cursor:default; }";
 		try{ document.getElementsByTagName("head")[0].appendChild(style); }
 		catch(e){
 			try{
