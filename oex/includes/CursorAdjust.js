@@ -9,7 +9,7 @@
 				var head = document.createElement("head");
 				head.appendChild(style);
 				document.body.appendChild(head);
-			}catch(e){ opera.postError("CursorAdjust: style-insertion failed"); }
+			}catch(e){ console.log("CursorAdjust: style-insertion failed"); }
 		}
 	}, false);
 })();
