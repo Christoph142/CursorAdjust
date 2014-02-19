@@ -1,9 +1,9 @@
 {
 "name": "CursorAdjust",
-"developer": {"name" : "Christoph D.", "url" : "http://my.opera.com/christoph142/blog"},
+"developer": {"name" : "Christoph D.", "url" : "https://christoph142.wordpress.com"},
 "description" : "Change the cursor over website's text back to what it used to be like in Opera up to version 11.60",
 "manifest_version" : 2,
-"version" : "2.0",
+"version" : "2.0.1",
 "icons" : {"128": "icon.png"},
 "content_scripts": [{"css": ["cursor.css"], "matches": ["<all_urls>"], "run_at": "document_start", "all_frames" : true}]
 }
